@@ -4,7 +4,7 @@
 This hobby project began with an aim to keep up with the changing vitals of my parents. The application accepts and retrieves data and stores it in a database format.
 
 
-![Application Interface](https://github.com/Kanka-goswami/Kanka-goswami_Vital-Statistics-Recorder/blob/9f0f7bc781d6284232e3677f8d15a81f4ee73ada "Figure: Application Interface")
+![Interface.PNG](Interface.PNG "Figure: Application Interface")
 
 
 ## Features of the application
